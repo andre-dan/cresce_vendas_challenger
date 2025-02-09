@@ -62,7 +62,7 @@ gem "redis", "~> 5.3"
 
 gem "redis-namespace", "~> 1.11"
 
-gem "faraday", "~> 1.0"
+gem "faraday", "~> 1.10"
 
 gem "faraday_middleware", "~> 1.2", ">= 1.2.1"
 
