@@ -58,7 +58,7 @@ end
 
 gem "sidekiq", "~> 7.3"
 
-gem "redis", "~> 5.3"
+gem "redis", "~> 5.4"
 
 gem "redis-namespace", "~> 1.11"
 
