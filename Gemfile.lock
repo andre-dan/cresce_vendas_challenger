@@ -243,7 +243,7 @@ GEM
     rake (13.2.1)
     rdoc (6.11.0)
       psych (>= 4.0.0)
-    redis (5.3.0)
+    redis (5.4.0)
       redis-client (>= 0.22.0)
     redis-client (0.23.2)
       connection_pool
@@ -387,7 +387,7 @@ DEPENDENCIES
   kamal
   puma (>= 5.0)
   rails (~> 8.0.1)
-  redis (~> 5.3)
+  redis (~> 5.4)
   redis-namespace (~> 1.11)
   rspec-rails
   rubocop-rails-omakase
