@@ -66,7 +66,7 @@ gem "faraday", "~> 1.0"
 
 gem "faraday_middleware", "~> 1.2", ">= 1.2.1"
 
-gem "byebug", "~> 11.1"
+gem "byebug", "~> 12.0"
 
 gem "awesome_print", "~> 1.9"
 
