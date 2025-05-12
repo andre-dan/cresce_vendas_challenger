@@ -70,7 +70,7 @@ gem "byebug", "~> 11.1"
 
 gem "awesome_print", "~> 1.9"
 
-gem "sidekiq-cron", "~> 2.1"
+gem "sidekiq-cron", "~> 2.3"
 
 gem "bcrypt", "~> 3.1"
 
